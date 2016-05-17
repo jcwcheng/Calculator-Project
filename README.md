@@ -1,2 +1,2 @@
-# calculator-project
-A calculator app with Swift
+# Calculator-Project
+A calculator app with Swift 
